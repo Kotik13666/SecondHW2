@@ -1,0 +1,45 @@
+div{
+    border: 2px;
+    border-style: solid;
+
+}
+
+.in1{
+    display: inline-block;
+    background-color: darksalmon;
+    width: 49.6%;
+    margin-bottom: 5px;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    text-align: center;
+    
+}
+
+.out{
+    background-color: darkseagreen;
+    margin-bottom: 5px;
+    padding-top: 10%;
+    padding-bottom: 9%;
+    text-align: center;
+
+}
+
+.in2{
+    display: inline-block;
+    background-color: darkturquoise;
+    width: 32.9%;
+    margin-bottom: 5px;
+    padding-top: 6%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.in3{
+    display: inline-block;
+    background-color: dimgray;
+    width: 24.554%;
+    margin-bottom: 5px;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    text-align: center;
+}

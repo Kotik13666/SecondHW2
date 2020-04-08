@@ -1,0 +1,42 @@
+.heder{
+position: absolute;
+top: 0;
+border-radius: 0 0 10px 10px;
+width: 90%;
+height: 15%;
+margin-left: 5%;
+margin-right: 5%;
+background-color: aqua;
+}
+
+.menu{
+position: fixed;
+border-radius: 10px;
+margin-left: 5%;
+margin-top: 8%;
+width: 10%;
+height: 600px;
+background-color: rgba(100, 200, 200, 0.4);
+padding: 10px;
+}
+
+.centr{
+border: 2px solid;
+margin-left: 18%;
+margin-top: 7%;
+margin-right: 5%;
+
+}
+
+.footer{
+position: absolute;
+bottom: 0;
+border-radius: 10px 10px 0 0;
+width: 90%;
+height: 15%;
+margin-left: 5%;
+margin-right: 5%;
+background-color: coral;
+padding-top: 0%;
+text-align: center;
+}
